@@ -4,7 +4,7 @@
 
 The Big Match Database is a comprehensive relational database project developed as a third-year Bachelor's (L3) project at Université Paris Cité. Built entirely from scratch, this project implements a modern matchmaking, event organization, and social interaction platform. 
 
-The system features a robust normalized relational architecture handling complex user profiles, multi-criteria filtering, geolocation, tiered subscriptions (Silver, Gold, Diamond), swipe-like mechanics (`LIKE`, `NOPE`, `EN_ATTENTE`) with mutual match detection, automated chat creation, and event management.
+The system features a robust normalized relational architecture handling complex user profiles, multi-criteria filtering, geolocation, tiered subscriptions (Silver, Gold, Diamond), swipe-like mechanics (`LIKE`, `NOPE`, `EN_ATTENTE`) with mutual match detection, automated chat creation, and event management. It specifically highlights advanced SQL querying capabilities (complex joins, aggregates, subqueries, recursive queries, and window functions).
 
 *Note: The codebase and SQL scripts emphasize strict relational integrity, database constraints, and clear schema organization. As this was an academic project, the codebase and docs are primarily in French*
 
